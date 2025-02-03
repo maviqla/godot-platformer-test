@@ -14,3 +14,7 @@ config/name="platformer-test-1"
 run/main_scene="res://scenes/test_scene_1.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
